@@ -1,1 +1,1 @@
-# Leangit25.1
+This project is focused towards learning Git and Github.
